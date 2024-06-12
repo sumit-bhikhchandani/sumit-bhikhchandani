@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)]
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)
 <h1 align="center">Hi 👋, I'm Sumit Bhikhchandani</h1>
 <h3 align="center">A passionate Software Developer Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sumit_b12" target="blank"><img src="https://img.shields.io/twitter/follow/@sumit_b12?logo=twitter&style=for-the-badge" alt="@sumit_b12" /></a> </p>
 
-- 🌱 I’m currently learning **React and Different Algorithms**
+- 🌱 I’m currently learning **React, backend development, and Data Structures & Algorithms to craft robust and efficient software solutions.**
 
 - 📫 How to reach me **sumitbhikhchandani99@gmail.com**
 
